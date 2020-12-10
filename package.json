@@ -1,5 +1,5 @@
 {
-  "name": "Online-offline-budget-tracker",
+  "name": "online-offline-budget-tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -22,7 +22,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.6.1",
-    "mongoose": "^5.11.5",
+    "mongoose": "^5.11.6",
     "morgan": "^1.10.0"
   }
 }
