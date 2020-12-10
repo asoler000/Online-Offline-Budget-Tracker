@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "heroku": "^7.47.5",
     "lite-server": "^2.6.1",
+    "mongodb": "^3.6.3",
     "mongoose": "^5.11.6",
     "morgan": "^1.10.0"
   }
